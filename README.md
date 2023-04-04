@@ -1,6 +1,6 @@
-# FTP Anonymouse Access Checker
+# FTP Anonymous Access Checker
 
-Untuk mengecek apakah ftp bisa login tanpa otentikasi password dan username atau biasa dikenal dengan _FTP Anonymouse Access_
+Untuk mengecek apakah ftp bisa login tanpa otentikasi password dan username atau biasa dikenal dengan _FTP Anonymous Access_
 
 # Cara Penggunaan
 
