@@ -1,4 +1,4 @@
-FTP Scanner
+FTP Scanner Anonymous Checker
 ===========
 
 Program ini akan memeriksa daftar FTP server yang diberikan oleh pengguna dan mengecek apakah anonymous FTP access diaktifkan atau tidak. Program ini menggunakan `ftplib` untuk terhubung ke server dan `concurrent.futures` untuk memeriksa setiap server secara asinkron. Program juga menggunakan `colorama` untuk memberikan output yang lebih menarik dan mudah dibaca.
